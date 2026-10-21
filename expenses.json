@@ -1,0 +1,47 @@
+[
+    {
+        "amount": 150.0,
+        "category": "Food",
+        "description": "Lunch"
+    },
+    {
+        "amount": 50.0,
+        "category": "Transport",
+        "description": "Bus fare"
+    },
+    {
+        "amount": 200.0,
+        "category": "Education",
+        "description": "Notebook"
+    },
+    {
+        "amount": 300.0,
+        "category": "cloth",
+        "description": "branding"
+    },
+    {
+        "amount": 500.0,
+        "category": "food",
+        "description": "burger"
+    },
+    {
+        "amount": 1000.0,
+        "category": "kurt",
+        "description": "meat"
+    },
+    {
+        "amount": 200.0,
+        "category": "dib",
+        "description": "jghfgd"
+    },
+    {
+        "amount": 400.0,
+        "category": "yrteuw",
+        "description": "opoop"
+    },
+    {
+        "amount": 452.0,
+        "category": "dog",
+        "description": "train"
+    }
+]
