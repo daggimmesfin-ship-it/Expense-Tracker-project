@@ -25,7 +25,6 @@ Expense-Tracker/
 └── README.md
 ```
 
-*Note: Your actual filenames may differ. Update this structure to match your project.*
 
 ## 🚀 How to Run
 
@@ -53,7 +52,6 @@ cd YOUR_PROJECT_FOLDER
 py main.py
 ```
 
-If your main Python file has a different name, replace `main.py` with that filename.
 
 ## 📖 What I Learned
 
